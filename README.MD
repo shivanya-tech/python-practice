@@ -57,4 +57,3 @@ This is a personal learning project, but feel free to fork, suggest improvements
 
 ---
 
-Let me know if you'd like me to help you write the upcoming notebooks too.

@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file tailored for your GitHub repository, based on the screenshot and your plans to add topics like OOP, functions, and recursion:
 
 ---
 

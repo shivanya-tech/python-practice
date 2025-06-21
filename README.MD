@@ -27,7 +27,6 @@ Welcome to my Python practice repository! This repo contains various Jupyter not
 
 ## 🚀 Coming Soon
 
-* `functions.ipynb` — Defining and using functions in Python.
 * `recursion.ipynb` — Introduction to recursion with examples.
 * `OOP.ipynb` — Object-Oriented Programming: classes, objects, inheritance, etc.
 
